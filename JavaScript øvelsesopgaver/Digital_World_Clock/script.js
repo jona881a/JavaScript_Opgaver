@@ -28,5 +28,7 @@ const worldtimeapiFetch = function (url) {
   "utc_offset": "+01:00", <----
   "week_number": 7
         }*/
+
+      /*TODO: lav passende attributter ud fra de markerede JSON værdier som kan manipulerer med klokken  */
     });
 };
